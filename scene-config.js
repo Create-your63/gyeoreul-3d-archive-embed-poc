@@ -1,7 +1,7 @@
 /* Replace only with a scene you are authorized to publish/embed.
  * Copy the iframe src from SuperSplat's Embed dialog; do not guess scene paths.
  * For self-hosting, put an official Viewer App ZIP's extracted files in
- * site/viewer/ and use embedUrl: './viewer/index.html', mode: 'self-hosted'.
+ * viewer/ and use embedUrl: './viewer/index.html', mode: 'self-hosted'.
  */
 window.ARCHIVE_SCENE = Object.freeze({
   mode: 'external',
