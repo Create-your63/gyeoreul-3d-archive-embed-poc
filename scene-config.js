@@ -5,11 +5,11 @@
  */
 window.ARCHIVE_SCENE = Object.freeze({
   mode: 'external',
-  isSample: true,
-  embedUrl: 'https://superspl.at/s?id=db6ab60b',
-  originalUrl: 'https://superspl.at/s?id=db6ab60b',
-  label: '공개 데모 · 외부 임베드',
+  isSample: false,
+  embedUrl: 'https://superspl.at/s?id=d7e9d718',
+  originalUrl: 'https://superspl.at/s?id=d7e9d718',
+  label: '부여여고 항공 기록 · 3DGS',
   title: '부여여자고등학교',
-  description: '겨를이 촬영·제작한 학교 공간기록의 웹 열람을 준비하고 있습니다.',
-  notice: '현재 화면은 PlayCanvas 공식 글에 사용된 공개 테스트 장면입니다. 부여여고 기록이 아니며, 부여여고 콘텐츠 검증은 아직 진행하지 않았습니다.'
+  description: '겨를이 항공 촬영으로 제작한 부여여자고등학교 3D 공간기록입니다. 학교 건물과 주변 공간을 다양한 시점에서 살펴볼 수 있습니다.',
+  notice: '부여여자고등학교 항공 3DGS · 촬영 및 제작: 겨를. 기관 홈페이지 적용 가능성을 확인하기 위한 비공식 시범 열람 페이지입니다.'
 });
